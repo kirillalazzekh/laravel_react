@@ -8,8 +8,8 @@ You register an account,login and post ad. Ads can be searched. You can find cat
 ## Development
 
 ```bash
-https://github.com/naveed-rana/olxpakistan.git
-cd olxpakistan
+https://github.com/kirillalazzekh/olx.git
+cd olx
 yarn # or npm install
 yarn start # or npm start
 ```
